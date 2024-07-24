@@ -138,3 +138,5 @@ if(get){
     nickeName.focus()
   })
 }
+
+msgDiv.scrollTop = msgDiv.scrollHeight;

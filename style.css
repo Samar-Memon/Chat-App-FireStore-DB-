@@ -127,6 +127,12 @@ body{
     align-self: flex-start;
 }
 
+@media(max-width: 550px){
+    .message{
+        max-width: 100%;
+    }
+}
+
 
 @media (max-width: 400px) {
     .setNickName h1{
